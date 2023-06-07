@@ -1,0 +1,5 @@
+# Project exclude paths
+/reporting-task-dal/target/
+/reporting-task-dynamo/target/
+/reporting-task-main/target/
+/reporting-task-mysql/target/
